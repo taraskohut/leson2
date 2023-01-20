@@ -1,5 +1,5 @@
 body{
-    width: auto;
+
     margin: 0;
 
 }
@@ -14,6 +14,7 @@ body{
 
 
 
+
 }
 .block1{
     background: blue;
@@ -23,15 +24,17 @@ body{
     justify-content: center;
     align-items: center;
     margin: 20px;
+    border: 2px black solid;
 }
 .block2{
     background: cornflowerblue;
-    width: 293px;
+    width: 290px;
     display: flex;
     height: 250px;
     justify-content: center;
     align-items: center;
     margin: 20px;
+    border: 2px black solid;
 }
 .block3{
     background: blue;
@@ -41,4 +44,6 @@ body{
     justify-content: center;
     align-items: center;
     margin: 20px;
+    border: 2px black solid;
+
 }
