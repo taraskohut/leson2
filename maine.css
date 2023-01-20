@@ -25,6 +25,7 @@ body{
     align-items: center;
     margin: 20px;
     border: 2px black solid;
+    border-radius: 5px;
 }
 .block2{
     background: cornflowerblue;
@@ -35,6 +36,7 @@ body{
     align-items: center;
     margin: 20px;
     border: 2px black solid;
+    border-radius: 5px;
 }
 .block3{
     background: blue;
@@ -45,5 +47,6 @@ body{
     align-items: center;
     margin: 20px;
     border: 2px black solid;
+    border-radius: 5px;
 
 }
