@@ -5,19 +5,14 @@ body{
     margin: 0;
 
 }
-
-
 .father{
     text-transform: uppercase;
     width: 1000px;
     display: flex;
     flex-wrap: wrap;
     font-size: 25px;
-
-
-
-
 }
+
 .block1{
     background: blue;
     width: 1000px;
@@ -29,6 +24,7 @@ body{
     border: 2px black solid;
     border-radius: 5px;
 }
+
 .block2{
     background: cornflowerblue;
     width: 290px;
